@@ -1,5 +1,0 @@
-# Environment variable template for Veleon Systems Lab
-
-SUPABASE_URL=
-SUPABASE_KEY=
-VELEON_MASTER_SECRET=
