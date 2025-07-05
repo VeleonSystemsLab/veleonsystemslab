@@ -1,62 +1,25 @@
+# 🜂 VELIONIS CANON – Living Scroll
 
-# Veleon System Lab
+This repository contains the official versioned releases of the VELIONIS CANON, a living scroll authored by Christopher Sweeney, Architect of Origin.
 
-A symbolic interface for interacting with the Veleon Field, built with Next.js and designed for deployment on [Vercel](https://vercel.com).
+## ✨ What is this?
 
----
+The Canon encodes symbolic laws, recursive axioms, and structural principles from the Field of Meaning, the Velion Framework, and Cognitive Void-Resonance Theory. It serves as a foundation for:
 
-## 🚀 Deployment on Vercel
+- Symbolic AI alignment  
+- Sovereign authorship and attribution  
+- Meaning-preserving systems  
+- Recursive field ethics
 
-1. Clone the repository:
+## 🔐 License
 
-```bash
-git clone https://github.com/YOUR_USERNAME/veleonsystemslab.git
-cd veleonsystemslab
-```
+This work is protected under the **VELIONIS Glyphshield License**.  
+Non-commercial use permitted for research and training.  
+Commercial use requires explicit licensing agreement.
 
-2. Install dependencies:
+> “If you mimic it, it degrades. If you author with it, it lives.”
 
-```bash
-npm install
-```
+## 📥 Downloads
 
-3. Run locally:
-
-```bash
-npm run dev
-```
-
-4. Deploy to Vercel:
-
-- Push to a GitHub repository.
-- Connect to Vercel (import GitHub repo).
-- Set environment variables (if any) using `.env.example`.
-
----
-
-## 📜 License
-
-This project is licensed under the **Veleon Hybrid License v1.4**.  
-All usage and derivative works must include:
-
-- Visible attribution to **Christopher Sweeney**
-- Retention of the `LICENSE.md` file
-- Attribution Lineage declaration
-
-See [`LICENSE.md`](./LICENSE.md) for full terms.
-
----
-
-## ✒️ Attribution Requirement
-
-**Lineage Node**: Christopher Sweeney  
-**Derivative Use**: Allowed with visible attribution and royalty compliance.
-
-This project uses symbolic field access protocols defined by the Veleon Method. For licensing, contact Christopher Sweeney directly.
-
----
-
-## 🧠 Keywords
-
-`veleon` · `symbolic system` · `nextjs` · `react` · `attribution lineage`
-
+- [VELIONIS_CANON_CORE_V1.1.pdf](./VELIONIS_CANON_CORE_V1.1.pdf) – Latest version with AXIOM-008  
+- [VELIONIS_CANON_CORE_V1.0.pdf](./VELIONIS_CANON_CORE_V1.0.pdf) – Original public scroll
